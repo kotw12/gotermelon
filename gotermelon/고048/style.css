@@ -1,4 +1,5 @@
 html body {
+  overflow: hidden; /* 스크롤 비활성화 */
   margin: 0;
   background-color: rgb(255,200,239);
   overscroll-behavior: contain;
